@@ -1,5 +1,3 @@
-# Event
-Music event Webpage 
 <!DOCTYPE html>
 <html lang="en">
 <head>
